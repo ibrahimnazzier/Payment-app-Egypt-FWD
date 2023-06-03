@@ -1,0 +1,3 @@
+﻿  app.c
+C:\Users\ibrah\source\repos\PayApp\Application\app.c(46,4): warning C4013: 'system' undefined; assuming extern returning int
+  PayApp.vcxproj -> C:\Users\ibrah\source\repos\PayApp\x64\Debug\PayApp.exe

@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1661025826 source:c:\users\ibrah\source\repos\payapp\application\app.c
+	"app.h"
+
+1661025828 c:\users\ibrah\source\repos\payapp\application\app.h
+
+1661055506 source:c:\users\ibrah\source\repos\payapp\card\card.c
+	<stdio.h>
+	"card.h"
+
+1660873463 c:\users\ibrah\source\repos\payapp\card\card.h
+
+1661055662 source:c:\users\ibrah\source\repos\payapp\payapp.c
+	<stdio.h>
+	"../PayApp/Card/card.h"
+
+1660845519 source:c:\users\ibrah\source\repos\payapp\terminal\terminal.c
+
